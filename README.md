@@ -9,7 +9,7 @@ A unique, random password generator.
 
 ## General Information
 
-A site developed for the purpose generating a unique, random password.
+A site developed for the purpose of generating a unique, random password.
 
 ### Technologies Used
 
